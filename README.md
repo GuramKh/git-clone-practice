@@ -1,1 +1,1 @@
-# git-clone-practice
+This is a sample README file for a project.
